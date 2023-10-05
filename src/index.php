@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
     <div class="contenedor">
     <form action="" method="get" enctype="multipart/form-data">
-            <img src="./img/calculadora.png" alt="Imagen de calculadora">
+            <img src="../img/calculadora.png" alt="Imagen de calculadora">
             <h2>Calculadora:</h2>
 
             <label for="num1">Valor 1:</label>
