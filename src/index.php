@@ -11,7 +11,7 @@
 
 <body>
     <div class="contenedor">
-    <form action="" method="get" enctype="multipart/form-data">
+    <form method="get" enctype="multipart/form-data">
             <img src="../img/calculadora.png" alt="Imagen de calculadora">
             <h2>Calculadora:</h2>
 
